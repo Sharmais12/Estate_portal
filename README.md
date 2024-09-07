@@ -8,10 +8,13 @@ localhost- http://localhost:5174/
 
 #Images
 1.Front Page
-![Screenshot (451)](https://github.com/user-attachments/assets/4ed9fee8-a7cd-432e-abbf-7e59ae91dbd8)
+
+![home](https://github.com/user-attachments/assets/e2f130e9-3c76-4892-a77d-c4aa009a4276)
 
 2. Top Villas
-![Screenshot (451)](https://github.com/user-attachments/assets/0b09a869-1697-4f0e-a4c7-af28c3d7d749)
+
+![top](https://github.com/user-attachments/assets/70a5fd17-f5cc-4e21-acb5-0d0e4e9cca29)
+
 
 3. Project Video
 https://github.com/user-attachments/assets/a4db90d7-b5d3-46ec-aab5-eaad62834284
